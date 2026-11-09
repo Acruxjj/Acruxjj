@@ -3,7 +3,7 @@ Undergraduate research in **computational astrophysics**, focused on stellar cha
 Technical interests include **Python, data analysis, exploratory data analysis, data visualization, SQL, and predictive modeling**, with applications extending beyond astrophysical research to broader data-driven problems.
 
 <div align="left">
-  <a href="jjosucaraujo@gmail.com">
+  <a href="mailto:jjosucaraujo@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/jjosue-araujo">
