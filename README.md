@@ -2,18 +2,6 @@ Undergraduate research in **computational astrophysics**, focused on stellar cha
 
 Technical interests include **Python, data analysis, exploratory data analysis, data visualization, SQL, and predictive modeling**, with applications extending beyond astrophysical research to broader data-driven problems.
 
-### Technologies & Tools
-
-<div align="left">
-  <img height="40" src="https://skillicons.dev/icons?i=python,sqlite,tensorflow,git,github,vscode" />
-</div>
-
-**Libraries:** Pandas · NumPy · Matplotlib · Scikit-learn · TensorFlow/Keras
-
-**Other tools:** SQL · Jupyter Notebook · Pytest
-
-### Connect with me
-
 <div align="left">
   <a href="mailto:SEU_EMAIL">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -25,6 +13,16 @@ Technical interests include **Python, data analysis, exploratory data analysis, 
     <img src="https://img.shields.io/badge/Academic_Website-2C3E50?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </div>
+
+### Technologies & Tools
+
+<div align="left">
+  <img height="40" src="https://skillicons.dev/icons?i=python,sqlite,tensorflow,git,github,vscode" />
+</div>
+
+**Libraries:** Pandas · NumPy · Matplotlib · Scikit-learn · TensorFlow/Keras
+
+**Other tools:** SQL · Jupyter Notebook · Pytest
 
 ---
 
