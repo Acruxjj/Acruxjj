@@ -17,12 +17,13 @@ Technical interests include **Python, data analysis, exploratory data analysis, 
 ### Technologies & Tools
 
 <div align="left">
-  <img height="40" src="https://skillicons.dev/icons?i=python,sqlite,tensorflow,git,github,vscode" />
+  <img height="40" src="https://skillicons.dev/icons?i=python,sqlite,tensorflow,sklearn,git,github,vscode" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" />
+  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </div>
-
-**Libraries:** Pandas · NumPy · Matplotlib · Scikit-learn · TensorFlow/Keras
-
-**Other tools:** SQL · Jupyter Notebook · Pytest
 
 ---
 
